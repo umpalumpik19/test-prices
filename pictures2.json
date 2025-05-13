@@ -52,56 +52,6 @@
   "sloj-dva": [
     {
       "title": "Studená pěna Мягкая",
-      "url": "https://static.tildacdn.com/tild6434-3466-4031-b863-383536663332/photo.png"
-    },
-    {
-      "title": "Studená pěna Средне твердая",
-      "url": "https://static.tildacdn.com/tild6232-6431-4438-b532-653235663966/-.png"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild3363-6636-4830-b765-336664323332/photo.png",
-      "title": "Studená pěna Твердая"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6631-3035-4232-b034-383564636336/photo.png",
-      "title": "Pur Pena Мягкая"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6461-6134-4336-b230-613138666339/-.png",
-      "title": "Pur Pena Средне твердая"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6237-6232-4038-b166-633633633265/photo.png",
-      "title": "Pur Pena Твердая"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6362-6365-4333-b361-636639646231/photo.png",
-      "title": "Paměťová pěna Мягкая"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6336-3863-4838-a232-616432663166/-.png",
-      "title": "Paměťová pěna Средне твердая"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6637-6438-4433-b830-343039666438/photo.png",
-      "title": "Paměťová pěna Твердая"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6232-6237-4466-a130-343462316630/photo.png",
-      "title": "Latex Мягкий"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6139-3237-4866-b135-323261366633/--.png",
-      "title": "Latex Средне твердый"
-    },
-    {
-      "url": "https://static.tildacdn.com/tild6237-3930-4666-a333-316665643039/-28.png",
-      "title": "Пружины"
-    }
-  ],
-  "sloj-tri": [
-    {
-      "title": "Studená pěna Мягкая",
       "url": "https://static.tildacdn.com/tild3562-3937-4532-b861-633066356637/photo.png"
     },
     {
@@ -146,6 +96,56 @@
     },
     {
       "url": "https://static.tildacdn.com/tild6663-3065-4265-b666-663364376132/photo.png",
+      "title": "Пружины"
+    }
+  ],
+  "sloj-tri": [
+    {
+      "title": "Studená pěna Мягкая",
+      "url": "https://static.tildacdn.com/tild6434-3466-4031-b863-383536663332/photo.png"
+    },
+    {
+      "title": "Studená pěna Средне твердая",
+      "url": "https://static.tildacdn.com/tild6232-6431-4438-b532-653235663966/-.png"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3363-6636-4830-b765-336664323332/photo.png",
+      "title": "Studená pěna Твердая"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6631-3035-4232-b034-383564636336/photo.png",
+      "title": "Pur Pena Мягкая"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6461-6134-4336-b230-613138666339/-.png",
+      "title": "Pur Pena Средне твердая"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6237-6232-4038-b166-633633633265/photo.png",
+      "title": "Pur Pena Твердая"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6362-6365-4333-b361-636639646231/photo.png",
+      "title": "Paměťová pěna Мягкая"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6336-3863-4838-a232-616432663166/-.png",
+      "title": "Paměťová pěna Средне твердая"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6637-6438-4433-b830-343039666438/photo.png",
+      "title": "Paměťová pěna Твердая"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6232-6237-4466-a130-343462316630/photo.png",
+      "title": "Latex Мягкий"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6139-3237-4866-b135-323261366633/--.png",
+      "title": "Latex Средне твердый"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6237-3930-4666-a333-316665643039/-28.png",
       "title": "Пружины"
     }
   ]
