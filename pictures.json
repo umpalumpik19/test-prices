@@ -1,38 +1,32 @@
-[
-  {
-    "sloj-odin": [
-      {
-        "title": "Studená pěna Мягкая",
-        "url": "https://static.tildacdn.com/tild3939-6430-4233-a630-333863383062/photo.png"
-      },
-      {
-        "title": "Studená pěna Средне твердая",
-        "url": "https://static.tildacdn.com/tild3238-6662-4132-b562-356361363466/-.png"
-      }
-    ]
-  },
-  {
-    "sloj-dva": [
-      {
-        "title": "Studená pěna Мягкая",
-        "url": "https://static.tildacdn.com/tild6434-3466-4031-b863-383536663332/photo.png"
-      },
-      {
-        "title": "Studená pěna Средне твердая",
-        "url": "https://static.tildacdn.com/tild6232-6431-4438-b532-653235663966/-.png"
-      }
-    ]
-  },
-  {
-    "sloj-tri": [
-      {
-        "title": "Studená pěna Мягкая",
-        "url": "https://static.tildacdn.com/tild3562-3937-4532-b861-633066356637/photo.png"
-      },
-      {
-        "title": "Studená pěna Средне твердая",
-        "url": "https://static.tildacdn.com/tild6665-3266-4136-b937-376466663631/-.png"
-      }
-    ]
-  }
-]
+{
+  "sloj-odin": [
+    {
+      "title": "Studená pěna Мягкая",
+      "url": "https://static.tildacdn.com/tild3939-6430-4233-a630-333863383062/photo.png"
+    },
+    {
+      "title": "Studená pěna Средне твердая",
+      "url": "https://static.tildacdn.com/tild3238-6662-4132-b562-356361363466/-.png"
+    }
+  ],
+  "sloj-dva": [
+    {
+      "title": "Studená pěna Мягкая",
+      "url": "https://static.tildacdn.com/tild6434-3466-4031-b863-383536663332/photo.png"
+    },
+    {
+      "title": "Studená pěna Средне твердая",
+      "url": "https://static.tildacdn.com/tild6232-6431-4438-b532-653235663966/-.png"
+    }
+  ],
+  "sloj-tri": [
+    {
+      "title": "Studená pěna Мягкая",
+      "url": "https://static.tildacdn.com/tild3562-3937-4532-b861-633066356637/photo.png"
+    },
+    {
+      "title": "Studená pěna Средне твердая",
+      "url": "https://static.tildacdn.com/tild6665-3266-4136-b937-376466663631/-.png"
+    }
+  ]
+}
